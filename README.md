@@ -4,8 +4,13 @@
 
 FL Studio · MoggyDay · 26.1 · v26.1.6
 
-# FL Studio 26.1 “Pro for Windows: piano roll, mixer, plugins” [v26.1.6]
+# FL Studio 26.1 “for Windows: piano roll, mixer, plugins” [v26.1.6]
 
+<p>
+  <a href="https://moggydayprogram.com/programs/fl-studio"><img src="docs/media/shot-1.jpg" alt="file" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/fl-studio"><img src="docs/media/shot-2.jpg" alt="mixer" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/fl-studio"><img src="docs/media/shot-3.jpg" alt="about" width="280"></a>
+</p>
 <p><img src="docs/media/logos/fl-studio.svg" alt="FL Studio" height="48"></p>
 
 MoggyDay keeps one stable URL for FL Studio: EN / RU. Piano roll, mixer, All Plugins. 1.3 GB, Windows x64.
