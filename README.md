@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://soldermofitting.github.io/fl-studio-windows/) picks English or Russian from the browser. Switch: [English](https://soldermofitting.github.io/fl-studio-windows/?lang=en) · [Русский](https://soldermofitting.github.io/fl-studio-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/fl-studio"><img src="docs/media/preview.jpg" alt="FL Studio preview" width="640"></a>
+</p>
+
 FL Studio · MoggyDay · 26.1 · v26.1.6
 
 # FL Studio 26.1 “for Windows: piano roll, mixer, plugins” [v26.1.6]
